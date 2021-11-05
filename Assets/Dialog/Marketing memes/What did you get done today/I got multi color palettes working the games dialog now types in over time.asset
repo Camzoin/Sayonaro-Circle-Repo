@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b86c7dd1f705390489bcdadaf57c7a9b, type: 3}
+  m_Name: I got multi color palettes working the games dialog now types in over time
+  m_EditorClassIdentifier: 
+  fullSentance: I got multiple color palettes and sound working and the games dialog
+    now types in over time
+  dialogOptions:
+  - word: I
+    angle: 130.14438
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: got
+    angle: 105.911804
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: multiple
+    angle: -148.91626
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: color
+    angle: 132.97934
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: palettes
+    angle: -126.91196
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: and
+    angle: -15.695023
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: sound
+    angle: 143.55194
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: working
+    angle: -77.63516
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: and
+    angle: -175.49615
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: the
+    angle: -97.791374
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: games
+    angle: -79.120605
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: dialog
+    angle: 140.47067
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: now
+    angle: 167.79184
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: types
+    angle: 125.94635
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: in
+    angle: -154.88962
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: over
+    angle: -136.65457
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: time
+    angle: 83.496124
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  nextQuestion: {fileID: 11400000, guid: 737ac966713f98c49b580240384a9fce, type: 2}

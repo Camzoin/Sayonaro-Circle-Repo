@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d565bda3941f0a4683d06a25bfa9ec3, type: 3}
+  m_Name: WhatDidYouGetDoneToday
+  m_EditorClassIdentifier: 
+  timeOutQuestion: {fileID: 0}
+  question: What did you get done today?
+  timeToRespond: 20
+  writeInTime: 1
+  questionOptions:
+  - dialog: {fileID: 11400000, guid: 2ab3b999e97f91b4cb8c2cd1e97563e9, type: 2}
+    angle: -90
+    size: 0
+  - dialog: {fileID: 11400000, guid: 2e3caf1bf6ff5294c876dfeb28a2ac14, type: 2}
+    angle: -30
+    size: 0

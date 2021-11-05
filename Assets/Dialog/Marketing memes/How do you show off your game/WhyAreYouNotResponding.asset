@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d565bda3941f0a4683d06a25bfa9ec3, type: 3}
+  m_Name: WhyAreYouNotResponding
+  m_EditorClassIdentifier: 
+  timeOutQuestion: {fileID: 11400000}
+  question: Why are you not responding?
+  timeToRespond: 10
+  writeInTime: 0.5
+  questionOptions:
+  - dialog: {fileID: 11400000, guid: 4f011e23f1082f14ea41bfa72dc72e24, type: 2}
+    angle: -180
+    size: 0
+  - dialog: {fileID: 11400000, guid: 68121ace2e0da39469a7a22f39946267, type: 2}
+    angle: 49
+    size: 0

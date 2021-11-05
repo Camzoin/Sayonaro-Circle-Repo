@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b86c7dd1f705390489bcdadaf57c7a9b, type: 3}
+  m_Name: WithAGIF
+  m_EditorClassIdentifier: 
+  fullSentance: With a GIF!
+  dialogOptions:
+  - word: With
+    angle: 60
+    size: 1
+  - word: a
+    angle: 93
+    size: 1
+  - word: GIF!
+    angle: 164
+    size: 1
+  nextQuestion: {fileID: 11400000, guid: c6110b8ef66d084489f94a593c73712e, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b86c7dd1f705390489bcdadaf57c7a9b, type: 3}
+  m_Name: BecauseINeededToTestImSorry
+  m_EditorClassIdentifier: 
+  fullSentance: I needed to test the system I'm sorry!
+  dialogOptions:
+  - word: I
+    angle: -105
+    size: 1
+    timeToSay: 0.2
+  - word: needed
+    angle: 115
+    size: 1
+    timeToSay: 0.2
+  - word: to
+    angle: -54
+    size: 1
+    timeToSay: 0.2
+  - word: test
+    angle: -109
+    size: 1
+    timeToSay: 0.2
+  - word: the
+    angle: -149
+    size: 1
+    timeToSay: 0.2
+  - word: system
+    angle: 105
+    size: 1
+    timeToSay: 0.2
+  - word: I'm
+    angle: 153
+    size: 1
+    timeToSay: 0.2
+  - word: sorry!
+    angle: 177
+    size: 1
+    timeToSay: 0.2
+  nextQuestion: {fileID: 11400000, guid: 219537b3328a6a34280892612ad54122, type: 2}

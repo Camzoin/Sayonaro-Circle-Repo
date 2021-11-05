@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b86c7dd1f705390489bcdadaf57c7a9b, type: 3}
+  m_Name: IReallyDontKnow
+  m_EditorClassIdentifier: 
+  fullSentance: I really don't know.
+  dialogOptions:
+  - word: I
+    angle: -87
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: really
+    angle: 16
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: don't
+    angle: -55
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  - word: know
+    angle: -120
+    size: 1
+    timeToSay: 0.2
+    Shape: 0
+    shapeAmount: 0
+  nextQuestion: {fileID: 11400000, guid: 9a525280d2aae0a468c521d2031743e4, type: 2}

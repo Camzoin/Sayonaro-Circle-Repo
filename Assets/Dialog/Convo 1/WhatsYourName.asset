@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d565bda3941f0a4683d06a25bfa9ec3, type: 3}
+  m_Name: WhatsYourName
+  m_EditorClassIdentifier: 
+  question: What's your name?
+  timeToRespond: 10
+  questionOptions:
+  - dialog: {fileID: 11400000, guid: 5dcf4d19aa355054592a8ff7608e2288, type: 2}
+    angle: 0
+    size: 1
+  - dialog: {fileID: 11400000, guid: 91b59f683ae9e6a4eb89a54bfb49eccd, type: 2}
+    angle: 135
+    size: 1
